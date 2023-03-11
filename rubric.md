@@ -18,21 +18,21 @@ YES 1 pt: Program queries user for number of conversation rounds
 
 NO 1 pt: Program carries out requested number of conversation rounds
 
-NO 1 pt: Allocates static array of canned responses
+YES 1 pt: Allocates static array of canned responses
 
 ### Level 2 (3 pts)
 
-NO 1 pt: Uses a canned response when no mirror words detected
+YES 1 pt: Uses a canned response when no mirror words detected
 
-NO 1 pt: Detects the requested set of mirror words (at minimum)
+YES 1 pt: Detects the requested set of mirror words (at minimum)
 
-NO 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
+YES 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
 
 ### Level 3 (3 pts)
 
-NO 1 pt: Makes all appropriate mirror replacements
+YES 1 pt: Makes all appropriate mirror replacements
 
-NO 1 pt: Stores transcript of the conversation in an array
+YES 1 pt: Stores transcript of the conversation in an array
 
 NO 1 pt: Prints transcript when terminating
 
@@ -48,9 +48,9 @@ _____ (Kudos!) Handles you --> me/I dilemma
 
 ## General Items:
 
-PART 4 pts: Programs compile without errors or warnings
+NO  4 pts: Programs compile without errors or warnings
 
-PART 2 pts: Executes fully & consistently without crashing (exception/freeze)
+NO 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
 NO 2 pt: Complies with style guidelines (missing items 1 pt each):
 
