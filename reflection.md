@@ -1,7 +1,7 @@
 Use this file to record your reflection on this assignment.
 
 - Which classmates did you consult with while working on this assignment?
-N/A
+Raley Lon
 - Which session(s) of TA / office hours did you attend?\
 N/A
 - What are your initial impressions of Java? 
